@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TY-Blog</title>
+  <icon>http://blog.ty-lucas.monster/icon.png</icon>
+  
+  <link href="http://blog.ty-lucas.monster/atom.xml" rel="self"/>
+  
+  <link href="http://blog.ty-lucas.monster/"/>
+  <updated>2023-08-31T18:34:34.010Z</updated>
+  <id>http://blog.ty-lucas.monster/</id>
+  
+  <author>
+    <name>Lucas-TY</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.ty-lucas.monster/2023/08/31/hello-world/"/>
+    <id>http://blog.ty-lucas.monster/2023/08/31/hello-world/</id>
+    <published>2023-08-31T18:34:34.010Z</published>
+    <updated>2023-08-31T18:34:34.010Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
